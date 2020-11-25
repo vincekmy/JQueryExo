@@ -1,0 +1,13 @@
+.first{
+    width: 250px;
+    height: 150px;
+    border: 2px solid black;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.p1{
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    text-align: center;
+}
